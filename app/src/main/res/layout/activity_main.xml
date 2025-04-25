@@ -52,7 +52,7 @@
             android:id="@+id/btnSignUp"
             android:layout_width="166dp"
             android:layout_height="wrap_content"
-            android:text="Login"
+            android:text="Sign Up"
             android:translationX="100dp"
             android:translationY="300dp"
             app:layout_constraintBottom_toBottomOf="parent"
